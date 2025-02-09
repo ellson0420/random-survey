@@ -8,6 +8,6 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSdrwjQNFyMkdHDN9v7WcUnathThqlW4Bd3As7RqraJYZWvqLg/viewform?usp=sf_link',
-	'https://docs.google.com/forms/d/e/1FAIpQLScg09dmFk5WJVSZmxJfkUZ08EFMlzSvFVFnf-Lq1J0Vwqgpjw/viewform?usp=sf_link',
+	'https://docs.google.com/forms/d/1AgxyNN1dp4IvY6qK9tMmLisnBVamzcWI--OKQhF_lFw/edit?hl=zh-tw',
+	'https://docs.google.com/forms/d/1z7Q43A-Cp3IRgsWfmDE6BSexbjnE4RLu0Qu73-IVLdE/edit',
 ];
